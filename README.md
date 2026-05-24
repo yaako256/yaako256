@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  <img height="200em" src="https://github-readme-activity-graph.vercel.app/graph?username=yaako256&theme=radical&radius=10" alt="yaako256's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=yaako256&theme=radical&radius=10" alt="yaako256's Activity Graph" />
 </p>
 
 <p align="center">
-   <img height="140em" src="https://skillicons.dev/icons?i=react,typescript,nodejs,rust,docker,python"/>
+   <img height="100em" src="https://skillicons.dev/icons?i=react,typescript,nodejs,rust,docker,python"/>
 </p>
 
 <p align="right">
