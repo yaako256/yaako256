@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  ![Tech Stack](https://skillicons.dev/icons?i=react,typescript,nodejs,rust,docker,python)
+   <img height="280em" src="[https://github-readme-activity-graph.vercel.app/graph?username=yaako256&theme=radical&radius=10](https://skillicons.dev/icons?i=react,typescript,nodejs,rust,docker,python)"/>
 </p>
 
 
