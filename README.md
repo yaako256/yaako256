@@ -17,8 +17,10 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=yaako256&theme=radical&radius=10" alt="yaako256's Activity Graph" />
 </p>
 
+<p align="center">
+  ![Tech Stack](https://skillicons.dev/icons?i=react,typescript,nodejs,rust,docker,python)
+</p>
 
-![Tech Stack](https://skillicons.dev/icons?i=react,typescript,nodejs,rust,docker,python)
 
 last edited 2026/05/24
 
