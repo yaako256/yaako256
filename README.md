@@ -5,12 +5,11 @@
 
 
 
-<h3 align="center">Programming Languages</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" alt="Rust" width="40" />
-
+  <img src="https://streak-stats.demolab.com/?user=yaako256&theme=radical&hide_border=true&cache_seconds=86400" alt="yaako256's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=yaako256&theme=radical&radius=10" alt="yaako256's Activity Graph" />
 </p>
 
 
