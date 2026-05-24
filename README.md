@@ -4,7 +4,7 @@
 それまではC#、Pythonを触ってた。
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yaako256)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaako256&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 last edited 2026/05/24
