@@ -4,7 +4,7 @@
 それまではC#、Pythonを触ってた。
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaako256)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-streak-stats.herokuapp.com/api/top-langs/?username=yaako256&layout=compact)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 last edited 2026/05/24
 
