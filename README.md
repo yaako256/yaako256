@@ -3,7 +3,7 @@
 最近Rustを触り始めたらしい...<br>
 それまではC#、Pythonを触ってた。
 
-![Tech Stack](https://skillicons.dev/icons?i=js,typescript,react,nodejs,python,docker)
+![Tech Stack](https://skillicons.dev/icons?i=react,typescript,nodejs,rust,docker,python)
 
 last edited 2026/05/24
 
