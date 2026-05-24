@@ -11,14 +11,11 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yaako256&theme=radical&hide_border=true&cache_seconds=86400" alt="yaako256's GitHub Streak" width="49%" />
-</p>
-<p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=yaako256&theme=radical&radius=10" alt="yaako256's Activity Graph" />
 </p>
 
 <p align="center">
-   <img height="280em" src="[https://github-readme-activity-graph.vercel.app/graph?username=yaako256&theme=radical&radius=10](https://skillicons.dev/icons?i=react,typescript,nodejs,rust,docker,python)"/>
+   <img height="280em" src="https://skillicons.dev/icons?i=react,typescript,nodejs,rust,docker,python"/>
 </p>
 
 
