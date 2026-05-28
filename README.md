@@ -1,6 +1,6 @@
 # AboutME
 ## や～こ256 | yaako256
-最近Rustを触り始めたらしい...<br>
+最近Rustを触り始めたらしい<br>
 それまではC#、Pythonを触ってた。
 
 
